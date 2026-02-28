@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dev",
+      "runtimeExecutable": "/Users/kevinchacon/.nvm/versions/node/v20.20.0/bin/node",
+      "runtimeArgs": ["/Users/kevinchacon/Documents/Projects/Hackathon28Feb26/node_modules/.bin/vite", "--port", "5175"],
+      "port": 5175
+    }
+  ]
+}
