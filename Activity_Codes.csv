@@ -1,0 +1,41 @@
+Activity Code,Sector 
+1,Combustion >20MW
+2,Oil Refineries
+3,Coke Ovens
+4,Metal Ore Roasting/Sintering
+5,Pig Iron & Steel (Prim/Sec)
+6,Cement Clinker / Lime Kilns
+7,Glass & Glass Fibre
+8,Ceramics Production
+9,"Pulp, Paper & Board (Industrial)"
+10,Aircraft Operators
+20,Fuel Combustion
+21,Oil Refining
+22,Coke Production
+23,Ore Roasting/Sintering
+24,Pig Iron & Steel
+25,Ferrous Metals Processing
+26,Primary Aluminium
+27,Secondary Aluminium
+28,Non-Ferrous Metals Processing
+29,Cement Clinker
+30,Lime / Dolomite Calcination
+31,Glass Manufacturing
+32,Ceramics Manufacturing
+33,Mineral Wool
+34,Gypsum / Plasterboard
+35,Pulp Production
+36,Paper / Cardboard
+37,Carbon Black
+38,Nitric Acid
+39,Adipic Acid
+40,Glyoxal & Glyoxylic Acid
+41,Ammonia
+42,Bulk Chemicals
+43,Hydrogen & Syngas
+44,Soda Ash & Sodium Bicarb
+45,GHG Capture
+46,GHG Transport
+47,GHG Storage
+50,Maritime Operator
+99,Other
